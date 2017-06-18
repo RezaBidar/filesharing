@@ -1,6 +1,0 @@
-http://stackoverflow.com/questions/3480201/how-do-you-install-an-apk-file-in-the-android-emulator
-
-https://kennethmascarenhas.wordpress.com/2014/08/19/developing-for-android-wear-with-emulators/
-
-
-android wearable apk is in tools folder
